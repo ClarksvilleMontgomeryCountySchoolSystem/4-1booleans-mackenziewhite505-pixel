@@ -2,7 +2,7 @@
 #--------Group 1----------
 # Question: "Are you wearing shoes right now?"
 
-is_wearing_shoes = 6   # You are not wearing shoes.
+is_wearing_shoes = False  # You are not wearing shoes.
 
 # Question: "Did you eat breakfast today?"
 ate_breakfast_1 = True    # You ate breakfast this morning.
